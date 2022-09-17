@@ -1,0 +1,24 @@
+{
+    "name": "express-course-tut-cntd",
+    "version": "1.0.0",
+    "description": "[Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GodsentMichael/node-express-course-tut-cntd.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GodsentMichael/node-express-course-tut-cntd/issues"
+    },
+    "homepage": "https://github.com/GodsentMichael/node-express-course-tut-cntd#readme",
+    "dependencies": {
+        "express": "^4.18.1",
+        "nodemon": "^2.0.19"
+    }
+}
